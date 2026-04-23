@@ -1,4 +1,4 @@
-# <img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/e1b57865-ff8e-4361-afcb-4ac9552eca09" />GrowGo - My First Website
+# <img width="123" height="100" alt="image" src="https://github.com/user-attachments/assets/e1b57865-ff8e-4361-afcb-4ac9552eca09" />GrowGo - My First Website
 
 *"Naturally Made To Fit Your Taste"*
 
