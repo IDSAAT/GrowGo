@@ -1,0 +1,136 @@
+h1 {
+    font-size: x-large;
+    font-weight: 800;
+    
+}
+
+sub {
+    font-size: small;
+}
+
+body {
+    
+    background-color: rgb(204, 119, 34);
+}
+
+fieldset {
+    background-color: rgb(204, 119, 34);
+    color: rgb(74, 4, 4);
+    padding: 50px;
+}
+
+legend {
+    font-size: x-large;
+}
+
+.oji {
+    color: rgb(74, 4, 4);
+    background-color: lightgrey;
+    margin-top: -20px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+
+.firstname {
+    padding-bottom: 35px;
+    
+}
+
+.firstname input {
+    position: absolute;
+    transform: translate(40px, -2px);
+    background-color: lightgrey;
+}
+
+.middlename {
+    padding-bottom: 35px;
+}
+
+.middlename input {
+    position: absolute;
+    transform: translate(40px, -2px);
+    background-color: lightgrey;
+}
+
+.lastname {
+    padding-bottom: 35px;
+}
+
+.lastname input {
+    position: absolute;
+    transform: translate(40px, -2px);
+    background-color: lightgrey;
+}
+
+.email {
+    padding-bottom: 35px;
+}
+
+.email input {
+    position: absolute;
+    transform: translate(30px, -2px);
+    background-color: lightgrey;
+}
+
+.textarea {
+    float: right;
+}
+
+textarea {
+    background-color: lightgrey;
+}
+
+.password {
+    padding-bottom: 35px;
+}
+
+.password input {
+    position: absolute;
+    transform: translate(40px, -2px);
+    background-color: lightgrey;
+}
+
+.confirm-password {
+    padding-bottom: 150px;
+      
+}
+
+.confirm-password input {
+    position: absolute;
+    transform: translate(40px, -2px);
+    background-color: lightgrey;
+}
+
+.terms {
+    padding-bottom: 50px;
+    position: absolute;
+    transform: translate(200px, -20px);
+}
+
+.terms input {
+    background-color: lightgrey;
+}
+
+.terms a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.terms a:hover {
+    text-decoration: underline;
+    color: aqua;
+}
+
+#go {
+    background-color: rgb(74, 4, 4);
+    color: rgb(204, 119, 34);
+    border-radius: 5px;
+    position: absolute;
+    transform: translate(265px, 25px);
+}
+
+#go:hover {
+    background-color: black;
+    border-radius: 50%;
+}
